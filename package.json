@@ -1,0 +1,26 @@
+{
+  "name": "maxmin",
+  "version": "1.0.0",
+  "description": "Return max and min number in array",
+  "main": "app\\library.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests\\tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TUgonna/minMax.git"
+  },
+  "author": "Ugonna Thelma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TUgonna/minMax/issues"
+  },
+  "homepage": "https://github.com/TUgonna/minMax#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
